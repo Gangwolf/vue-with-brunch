@@ -1,6 +1,6 @@
 # Vue with Brunch
 
-This is a Brunch skeleton made with [vuejs](http://vuejs.org) following plugins for [SPA](https://en.wikipedia.org/wiki/Single-page_application) functionality:
+A Brunch skeleton made with [vuejs](http://vuejs.org) with the following plugins for [SPA](https://en.wikipedia.org/wiki/Single-page_application) functionality:
 * vue-resource
 * vue-router
 * vuex
