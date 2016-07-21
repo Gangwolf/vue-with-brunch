@@ -2,29 +2,29 @@
   "name": "vue-with-brunch",
   "description": "A brunch skeleton using vuejs.",
   "author": "Daniel Catalan",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Gangwolf/vue-with-brunch"
   },
   "scripts": {
     "start": "brunch watch --server",
     "build": "brunch build --production"
   },
   "dependencies": {
-    "vue": "^1.0.21",
-    "vue-resource": "^0.7.0",
+    "vue": "^1.0.26",
+    "vue-resource": "^0.9.3",
     "vue-router": "^0.7.13",
-    "vuex": "^0.6.3",
-    "vuex-router-sync": "^1.0.0"
+    "vuex": "^0.8.2",
+    "vuex-router-sync": "^2.0.2"
   },
   "devDependencies": {
-    "auto-reload-brunch": "^2.0.0",
+    "auto-reload-brunch": "^2.7.1",
     "babel-brunch": "^6.0.4",
     "clean-css-brunch": "^2.0.0",
-    "css-brunch": "^2.0.0",
+    "css-brunch": "^2.6.1",
     "javascript-brunch": "^2.0.0",
-    "uglify-js-brunch": "^2.0.0",
-    "vue-brunch": "^1.0.0"
+    "uglify-js-brunch": "^2.0.1",
+    "vue-brunch": "^1.1.2"
   }
 }
