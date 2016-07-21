@@ -7,8 +7,8 @@ module.exports = {
   },
   
   server: {
-    port: parseInt(process.env.PORT),
-    hostname: process.env.IP
+    port: parseInt(process.env.PORT) || 3000,
+    hostname: process.env.IP || 'localhost' 
   },
   
   plugins: {
