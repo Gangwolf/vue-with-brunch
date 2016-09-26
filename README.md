@@ -1,5 +1,7 @@
 # Vue with Brunch
 
+> Overhauling for [Vue.js 2.0](http://vuejs.org/2016/04/27/announcing-2.0/), not ready for use yet.
+
 A Brunch skeleton made with [vuejs](http://vuejs.org) with the following plugins for [SPA](https://en.wikipedia.org/wiki/Single-page_application) functionality:
 * vue-resource
 * vue-router
